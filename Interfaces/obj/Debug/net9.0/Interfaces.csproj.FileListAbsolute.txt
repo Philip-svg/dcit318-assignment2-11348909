@@ -1,0 +1,14 @@
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\bin\Debug\net9.0\Interfaces.exe
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\bin\Debug\net9.0\Interfaces.deps.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\bin\Debug\net9.0\Interfaces.runtimeconfig.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\bin\Debug\net9.0\Interfaces.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\bin\Debug\net9.0\Interfaces.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfo.cs
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\Interfaces.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\refint\Interfaces.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\Interfaces.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\Interfaces.genruntimeconfig.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Interfaces\obj\Debug\net9.0\ref\Interfaces.dll
