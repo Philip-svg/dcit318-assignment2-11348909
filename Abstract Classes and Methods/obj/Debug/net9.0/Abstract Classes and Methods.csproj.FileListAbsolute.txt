@@ -1,0 +1,14 @@
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.exe
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.deps.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.runtimeconfig.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.AssemblyInfoInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.AssemblyInfo.cs
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\refint\Abstract Classes and Methods.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.genruntimeconfig.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\DCIT 318 PROGAMMING II ASSIGNMENT 2\Abstract Classes and Methods\obj\Debug\net9.0\ref\Abstract Classes and Methods.dll
